@@ -5,4 +5,4 @@ cateto02 = float(input("Informe o valor do Segundo Cateto: "))
 
 calculo = ((cateto01 ** 2) + (cateto02 ** 2)) ** 0.5
 
-print("O resultado do calculo é: " + str(calculo))
+print("O resultado do calculo é:  " + str(calculo))
